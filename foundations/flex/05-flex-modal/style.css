@@ -67,3 +67,25 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* solution */
+
+.novaclasse {
+  display: flex;
+  align-items: start;
+  margin: 16px;
+  gap: 16px;
+}
+
+.linha {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+}
